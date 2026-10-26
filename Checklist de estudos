@@ -1,0 +1,328 @@
+Vamos montar um plano que te ajude a avançar na transição para QA sem transformar os estudos numa segunda jornada de trabalho. A ideia é criar constância, tarefas pequenas e resultados visíveis, para que você consiga estudar mesmo nos dias em que estiver com pouca motivação.
+
+Como você está em transição de carreira, o plano deve combinar três frentes: aprender os fundamentos de QA, praticar testes na prática e preparar-se para conquistar uma vaga júnior. E, principalmente, evitar aquela armadilha de passar horas organizando os estudos sem conseguir executá-los. 😅
+
+# Plano de estudos de QA — 3 meses
+
+Duração
+
+# 12 semanas
+
+Carga diária
+
+# 45–60 min
+
+Frequência
+
+## 6 dias/semana
+
+Prioridade
+
+## Prática + emprego
+
+Regra principal: em dias difíceis, faça a versão mínima de 10 minutos. O objetivo é manter o hábito, não compensar tudo o que ficou para trás.
+
+## 1. Rotina diária para evitar a procrastinação
+
+Use a mesma estrutura todos os dias. Assim, você não precisa decidir do zero o que fazer quando chegar a hora de estudar.
+
+15 min
+
+Bloco 1 — Aprender
+
+Assistir a uma aula curta do curso ou estudar um conceito específico de QA.
+
+20 min
+
+Bloco 2 — Praticar
+
+Fazer um exercício, criar um caso de teste, testar uma funcionalidade ou escrever um relatório de bug.
+
+10 min
+
+Bloco 3 — Consolidar
+
+Anotar três coisas que aprendeu, marcar o checklist e definir a primeira tarefa do próximo dia.
+
+Tempo total: 45 minutos, sem contar pausas. Se tiver mais energia, acrescente 10–15 minutos para uma tarefa complementar.
+
+### Checklist para cada sessão
+
+Comecei no horário combinado, sem esperar pela motivação.
+
+Deixei o telemóvel longe e abri apenas o necessário.
+
+Concluí pelo menos um bloco de estudo.
+
+Registei o que aprendi ou produzi.
+
+Deixei a próxima tarefa definida.
+
+0 de 5 concluídos
+
+Reiniciar
+
+## 2. Plano de estudos das 12 semanas
+
+O plano aproveita os cursos que você já tem em andamento — QA, Fundamentos de Qualidade e Desenvolvimento de Software, automação de testes e fundamentos de programação. Não é necessário começar novos cursos agora. A prioridade é transformar o conhecimento em prática demonstrável.
+
+### Mês 1 — Consolidar os fundamentos e começar a praticar
+
+Objetivo: compreender o processo de testes e ganhar confiança na execução de testes manuais.
+
+## Semana 1 — Organização e fundamentos de QA
+
+Segunda: Rever o papel de QA, QA versus QC e o ciclo de desenvolvimento.
+
+Terça: Estudar níveis de teste: unitário, integração, sistema e aceitação.
+
+Quarta: Estudar tipos de teste: funcional, regressão, exploratório e usabilidade.
+
+Quinta: Rever requisitos e identificar critérios de aceitação num exemplo simples.
+
+Sexta: Criar um resumo de uma página com os conceitos estudados.
+
+Sábado: Revisar os conceitos com 5 perguntas e identificar dúvidas.
+
+Entrega da semana: resumo de fundamentos de QA.
+
+## Semana 2 — Casos de teste e cenários
+
+Segunda: Aprender a diferença entre cenário de teste e caso de teste.
+
+Terça: Estudar pré-condições, passos, dados e resultados esperados.
+
+Quarta: Criar 3 casos de teste para um formulário de login.
+
+Quinta: Adicionar testes negativos: senha incorreta e campos vazios.
+
+Sexta: Rever e melhorar os casos de teste criados.
+
+Sábado: Executar os testes manualmente e registar os resultados.
+
+Entrega da semana: pelo menos 5 casos de teste documentados.
+
+## Semana 3 — Técnicas de teste e investigação
+
+Segunda: Estudar classes de equivalência.
+
+Terça: Estudar análise de valores-limite.
+
+Quarta: Aplicar as técnicas a um campo de idade ou valor monetário.
+
+Quinta: Praticar testes exploratórios numa aplicação web.
+
+Sexta: Registar pelo menos 5 cenários explorados.
+
+Sábado: Rever os resultados e explicar o motivo de cada teste.
+
+Entrega da semana: conjunto de cenários com técnicas de teste aplicadas.
+
+## Semana 4 — Bugs e testes de regressão
+
+Segunda: Estudar severidade, prioridade e ciclo de vida de um bug.
+
+Terça: Aprender a estrutura de um bom relatório de defeito.
+
+Quarta: Documentar um bug real ou reproduzível de uma aplicação.
+
+Quinta: Estudar testes de regressão e reteste.
+
+Sexta: Criar uma checklist de regressão com 8 a 10 verificações.
+
+Sábado: Rever os resultados do primeiro mês e listar as dúvidas restantes.
+
+Entrega do mês: casos de teste, checklist de regressão e pelo menos um relatório de bug.
+
+### Mês 2 — Ferramentas e prática mais próxima do trabalho
+
+Objetivo: ganhar autonomia técnica e começar a construir um portfólio de QA.
+
+## Semana 5 — Jira e organização dos testes
+
+Segunda: Conhecer projetos, tarefas, bugs e workflows no Jira.
+
+Terça: Estudar como escrever um ticket claro e reproduzível.
+
+Quarta: Criar 3 exemplos de tickets de defeitos.
+
+Quinta: Organizar os casos de teste numa planilha.
+
+Sexta: Conhecer noções básicas de Scrum e trabalho com releases.
+
+Sábado: Organizar os materiais produzidos até agora.
+
+## Semana 6 — API e Postman
+
+Segunda: Entender o que é uma API e para que serve.
+
+Terça: Estudar métodos GET, POST, PUT e DELETE.
+
+Quarta: Conhecer códigos HTTP comuns: 200, 201, 400, 401, 404 e 500.
+
+Quinta: Fazer uma requisição GET numa API pública de testes.
+
+Sexta: Validar status, estrutura e conteúdo da resposta.
+
+Sábado: Documentar 3 verificações feitas à API.
+
+## Semana 7 — SQL para QA
+
+Segunda: Rever tabelas, linhas, colunas e chaves.
+
+Terça: Praticar SELECT e WHERE.
+
+Quarta: Praticar ORDER BY e LIMIT.
+
+Quinta: Estudar COUNT, GROUP BY e funções de agregação.
+
+Sexta: Conhecer JOIN e relacionar duas tabelas simples.
+
+Sábado: Resolver 5 consultas SQL pequenas.
+
+## Semana 8 — Primeiro projeto de portfólio
+
+Segunda: Escolher uma aplicação web ou sistema de demonstração.
+
+Terça: Identificar funcionalidades e critérios de aceitação.
+
+Quarta: Escrever 5 a 8 casos de teste.
+
+Quinta: Executar os testes e guardar evidências.
+
+Sexta: Documentar os bugs encontrados, se existirem.
+
+Sábado: Criar um README com objetivo, escopo e resultados.
+
+Entrega do mês: primeiro projeto organizado para apresentar a recrutadores.
+
+### Mês 3 — Automação introdutória e preparação para vagas
+
+Objetivo: demonstrar o que você sabe, praticar entrevistas e manter uma procura de emprego consistente.
+
+## Semana 9 — Fundamentos de automação
+
+Segunda: Entender diferenças entre testes manuais e automatizados.
+
+Terça: Estudar variáveis, condições e funções em Python.
+
+Quarta: Praticar seletores e localizar elementos numa página web.
+
+Quinta: Conhecer a ferramenta Selenium ou Playwright, sem estudar ambas ao mesmo tempo.
+
+Sexta: Executar um exemplo básico disponibilizado no curso.
+
+Sábado: Rever o código e explicar cada etapa com as suas palavras.
+
+## Semana 10 — Projeto prático de QA
+
+Segunda: Escolher uma funcionalidade para testar com mais profundidade.
+
+Terça: Definir cenários positivos, negativos e limites.
+
+Quarta: Executar os testes manuais e registar evidências.
+
+Quinta: Escrever relatórios de bugs e resultados.
+
+Sexta: Se já conseguir, automatizar um teste simples; caso contrário, reforçar a prática manual.
+
+Sábado: Rever e melhorar a documentação do projeto.
+
+## Semana 11 — Currículo, entrevistas e candidaturas
+
+Segunda: Rever o CV para vagas de QA júnior e suporte técnico.
+
+Terça: Atualizar LinkedIn com competências reais e projetos práticos.
+
+Quarta: Preparar respostas para 3 perguntas comuns de entrevistas de QA.
+
+Quinta: Treinar a explicação de um caso de teste e de um bug.
+
+Sexta: Analisar 3 vagas e identificar os requisitos mais frequentes.
+
+Sábado: Enviar 2 candidaturas adequadas ou melhorar candidaturas anteriores.
+
+## Semana 12 — Revisão e consolidação
+
+Segunda: Rever os principais conceitos de QA sem consultar as notas.
+
+Terça: Executar novamente os casos de teste do portfólio.
+
+Quarta: Rever SQL, API e ferramentas, conforme as maiores dificuldades.
+
+Quinta: Fazer uma entrevista simulada de 15 minutos.
+
+Sexta: Corrigir lacunas identificadas e melhorar o projeto.
+
+Sábado: Avaliar o progresso e definir os próximos 30 dias.
+
+Entrega final: portfólio de QA, currículo direcionado e preparação inicial para entrevistas.
+
+## 3. Checklist semanal de acompanhamento
+
+Use esta lista para acompanhar o plano sem precisar de um sistema complicado. Marque cada tarefa quando terminar e considere o sábado como dia de revisão, não de cobrança.
+
+### Mês 1 — Fundamentos
+
+- Semana 1: compreender conceitos básicos, níveis e tipos de teste.
+- Semana 2: criar pelo menos 5 casos de teste.
+- Semana 3: praticar classes de equivalência, valores-limite e testes exploratórios.
+- Semana 4: documentar bugs e criar uma checklist de regressão.
+
+### Mês 2 — Ferramentas e prática
+
+- Semana 5: praticar organização de testes e tickets de defeitos.
+- Semana 6: fazer requisições básicas de API com Postman.
+- Semana 7: resolver exercícios de SQL.
+- Semana 8: concluir e documentar o primeiro projeto de QA.
+
+### Mês 3 — Preparação profissional
+
+- Semana 9: executar um exemplo introdutório de automação.
+- Semana 10: concluir um projeto prático de testes.
+- Semana 11: preparar CV, LinkedIn e respostas de entrevistas.
+- Semana 12: rever conhecimentos, simular entrevista e definir próximos passos.
+
+## 4. Estratégia para diminuir a procrastinação
+
+Esta parte é tão importante quanto o conteúdo técnico. O plano precisa funcionar também nos dias em que você estiver ansiosa com a procura de emprego ou com a sensação de que está avançando devagar.
+
+Regra dos 10 minutos
+
+Comprometa-se a estudar apenas 10 minutos. Depois, pode parar sem culpa. Começar é a primeira vitória; muitas vezes, continuar fica mais fácil.
+
+Uma tarefa concreta por vez
+
+Em vez de escrever “estudar QA”, escreva “criar três casos de teste para o login”. Quanto mais específica a tarefa, menor a resistência para começar.
+
+Não acumular tarefas
+
+Se perder um dia, retome no dia seguinte. Não tente fazer duas sessões para compensar nem adie o plano até à próxima segunda-feira.
+
+Separar estudo e procura de emprego
+
+Reserve um período curto, de 15–20 minutos, para candidaturas. Assim, não precisa interromper cada sessão de estudo para verificar vagas ou e-mails.
+
+Medir progresso pelo que produziu
+
+Conte casos de teste criados, bugs documentados, consultas SQL resolvidas e projetos concluídos — não apenas horas de vídeos assistidos.
+
+## 5. Metas ao final dos três meses
+
+Estas são metas de referência, não requisitos rígidos para conseguir uma vaga.
+
+| Área            | Resultado esperado                                             |
+| --------------- | -------------------------------------------------------------- |
+| Testes manuais  | Criar e executar casos de teste com autonomia                  |
+| Documentação    | Produzir relatórios claros de bugs                             |
+| Regressão       | Montar checklists de validação                                 |
+| API             | Executar requisições e verificar respostas básicas             |
+| SQL             | Resolver consultas simples                                     |
+| Portfólio       | Ter 1–2 projetos documentados                                  |
+| Empregabilidade | CV direcionado, treino de entrevistas e candidaturas regulares |
+
+Uma observação importante para o seu momento: como você já está fazendo cursos de QA e tem fundamentos de programação, não precisa esperar terminar os 12 meses de conteúdo — nem dominar automação — para começar a se candidatar. Continue procurando vagas de QA júnior e suporte técnico enquanto pratica.
+
+O objetivo dos próximos três meses não é saber tudo. É conseguir demonstrar, com exemplos concretos, o que você já sabe fazer.
+
+E uma última regra: consistência imperfeita vale mais do que um plano perfeito que você não consegue manter.
